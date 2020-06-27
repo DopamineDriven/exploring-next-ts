@@ -1,0 +1,33 @@
+{
+  "name": "explorting-next-ts",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "14.4.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DopamineDriven/exploring-next-ts.git"
+  },
+  "keywords": [],
+  "author": "Andrew Ross",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DopamineDriven/exploring-next-ts/issues"
+  },
+  "homepage": "https://github.com/DopamineDriven/exploring-next-ts#readme",
+  "dependencies": {
+    "date-fns": "^2.14.0",
+    "gray-matter": "^4.0.2",
+    "next": "^9.3.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "remark": "^12.0.0",
+    "remark-html": "^11.0.2"
+  }
+}
